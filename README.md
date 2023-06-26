@@ -14,8 +14,7 @@ In this project I have hosted the entire stack of the vprofile project and hoste
 - AWS S3
 
 ## Project Architecture
-![project architecture](https://github.com/SumitM01/Hosting-vprofile-app-using-AWS-PAAS-and-SAAS/assets/65524561/9216e800-581f-4dfd-9520-8b8931da1791)
-
+![project architecture](https://github.com/SumitM01/Hosting-vprofile-app-using-AWS-PAAS-and-SAAS/assets/65524561/2684851a-e707-4fbf-ba4e-c8dc5e8cd8c2)
 
 The following things take place after the user enters the URL:
 - The domain is configured using Route 53 and is routed to a Cloudfront(CDN) distribution.
