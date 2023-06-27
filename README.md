@@ -2,7 +2,7 @@
 This project configures and hosts the entire technology stack of the application in the form of an artifact on AWS using Elastic Beanstalk service and PAAS and SAAS services
 
 ## Overview
-In this project I have hosted the entire stack of the vprofile project and hosted it on AWS for production workload. If we look at the scenario there are lot of services running in tandem so that the service properly delivered to the customer. Managing these services requires huge expenditure, time and resources. To tackle this problem we can host the entire technology stack on AWS using its Paas and SaaS capabilities. We pay as we go, automation is easy. As the entire stack will be managed by AWS human intervention will be minimal and operational expenditure will be minimum.
+In this project I have hosted the entire stack of the vprofile project on AWS for production workload. If we look at the scenario there are lot of services running in tandem so that the service properly delivered to the customer. Managing these services requires huge expenditure, time and resources. To tackle this problem we can host the entire technology stack on AWS using its Paas and SaaS capabilities. We pay as we go, automation is easy. As the entire stack will be managed by AWS human intervention will be minimal and operational expenditure will be minimum.
 
 ## Services Used
 - AmazonMQ
